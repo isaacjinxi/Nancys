@@ -1,0 +1,16 @@
+
+h1{
+    font-family:Helvetica;
+    font-size:50px;
+
+}
+button{
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+    border:0;
+}
+button:hover{
+    background-color:black;
+}
+
